@@ -27,9 +27,6 @@ Payload a ser testado:
 
 ```
 {
-	"accountId": 1,
-	"dashboardId": 2,
-	"email": null,
 	"payload": {
 		"transaction_id": "AAAZZZ",
 		"store_name": "Store Name",
