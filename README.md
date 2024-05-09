@@ -20,7 +20,7 @@ Exemplo de UTM content válida:
 
 Criativo 3|12121212121212|nemu_yf1Dy6MWKc
 
-Sua missão é analisar o código fonte responsável por salvar os dados do Vega, encontrar o problema e propor uma solução para a normalização dos dados a serem registrados no banco de dados.
+Sua missão é analisar o código fonte responsável por salvar os dados, encontrar o problema e propor uma solução para a normalização dos dados a serem registrados no banco de dados.
 
 
 Payload a ser testado:
